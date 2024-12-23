@@ -1,0 +1,13 @@
+name: competition
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - mne
+  - pandas
+  - numpy
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - seaborn
